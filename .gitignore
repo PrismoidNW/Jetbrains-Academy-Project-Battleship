@@ -1,0 +1,31 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/production/classes/
+/Battleship/task/out/test/classes/
+/Topics/Custom exceptions/Square class/out/
+/Topics/Custom exceptions/Square class/out/production/classes/
+/Topics/Custom exceptions/Theory/out/
+/Topics/Custom exceptions/Theory/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Files/Theory/out/
+/Topics/Files/Theory/out/production/classes/
+/Topics/Input streams/Byte vs character input streams/out/
+/Topics/Input streams/Byte vs character input streams/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Input streams/FileInputStream class/out/
+/Topics/Input streams/FileInputStream class/out/production/classes/
+/Topics/Input streams/Read into an array/out/
+/Topics/Input streams/Read into an array/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/Input streams/Theory/out/
+/Topics/Input streams/Theory/out/production/classes/
+/Topics/Throwing exceptions/Theory/out/
+/Topics/Throwing exceptions/Theory/out/production/classes/
+/Topics/Throwing exceptions/Throw a checked exception/out/
+/Topics/Throwing exceptions/Throw a checked exception/out/production/classes/
