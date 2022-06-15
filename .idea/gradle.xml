@@ -44,6 +44,8 @@
             <option value="$PROJECT_DIR$/Topics/Input streams/Read into an array" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Reverse input text" />
             <option value="$PROJECT_DIR$/Topics/Input streams/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Convert to char array" />
+            <option value="$PROJECT_DIR$/Topics/Output streams/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
             <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw a checked exception" />
             <option value="$PROJECT_DIR$/util" />
